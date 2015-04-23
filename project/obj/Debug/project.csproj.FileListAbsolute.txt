@@ -1,0 +1,9 @@
+c:\users\tyler\documents\visual studio 2012\Projects\project\project\bin\Debug\project.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\project\project\bin\Debug\project.exe
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\project\project\bin\Debug\project.pdb
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.Form1.resources
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.exe
+C:\Users\Tyler\Documents\Visual Studio 2012\Projects\project\project\obj\Debug\project.pdb
